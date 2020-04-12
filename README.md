@@ -1,4 +1,4 @@
-#Realtime chat application (single channel) with emotion detection by using sentiment analysis.
+#Real-Time chat application (single channel) with emotion detection by using sentiment analysis.
 
 Features:
 
